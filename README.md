@@ -1,2 +1,2 @@
 # odin-recipes
-# made a bunch of list ordered and unordered to make these resipe pages, put in a few img src=S and put in a couple of breaks even added a link to the oden page going to my git hub page Oden Recipes.
+# "As a beginning software engineer, I've recently created a series of recipe pages. These pages are organized using ordered and unordered lists to categorize various oden recipes. I've also incorporated images (img src=) to provide visual representations of each recipe. Additionally, I've inserted line breaks (breaks) for improved readability. If you'd like to explore more recipes or check out the source code, feel free to visit my GitHub page for Oden Recipes. Yummy
