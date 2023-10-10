@@ -1,1 +1,2 @@
 # odin-recipes
+# made a bunch of list ordered and unordered to make these resipe pages, put in a few img src=S and put in a couple of breaks even added a link to the oden page going to my git hub page Oden Recipes.
